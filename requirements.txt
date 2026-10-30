@@ -1,0 +1,3 @@
+# Agent 接入依赖；原有 main.py 仍只使用标准库。
+langchain-openai==1.7.3
+python-dotenv==1.2.4

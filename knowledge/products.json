@@ -1,0 +1,29 @@
+[
+  {
+    "id": "guide_robot_a",
+    "name": "导览机器人A",
+    "aliases": ["导览机器人", "A机器人"],
+    "area": "机器人展区",
+    "description": "虚构练习产品，用于演示展厅接待与导览。",
+    "capabilities": ["展区导览", "语音讲解", "信息查询"],
+    "limitations": "仅支持预先配置的室内路线；资料未提供价格、续航或负载参数。"
+  },
+  {
+    "id": "industrial_arm_b",
+    "name": "工业机械臂B",
+    "aliases": ["机械臂", "机械臂B"],
+    "area": "工业展区",
+    "description": "虚构练习产品，用于演示固定工位的自动化操作。",
+    "capabilities": ["物料搬运", "零件分拣", "动作演示"],
+    "limitations": "只演示预先配置的任务；资料未提供精度、负载或报价。"
+  },
+  {
+    "id": "interactive_robot_c",
+    "name": "互动机器人C",
+    "aliases": ["互动机器人", "C机器人"],
+    "area": "互动展区",
+    "description": "虚构练习产品，用于演示访客互动。",
+    "capabilities": ["互动问答", "活动介绍", "欢迎播报"],
+    "limitations": "仅包含练习资料中的功能；资料未提供真实产品规格。"
+  }
+]
